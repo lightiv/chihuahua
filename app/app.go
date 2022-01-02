@@ -86,7 +86,7 @@ import (
 	"github.com/tendermint/spm/cosmoscmd"
 	"github.com/tendermint/spm/openapiconsole"
 
-	"github.com/ChihuahuaChain/chihuahua/docs"
+	"github.com/lightiv/chihuahua/docs"
 
 	// this line is used by starport scaffolding # stargate/app/moduleImport
 )
