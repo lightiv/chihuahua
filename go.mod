@@ -1,4 +1,4 @@
-module github.com/ChihuahuaChain/chihuahua
+module github.com/lightiv/chihuahua
 
 go 1.16
 
